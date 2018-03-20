@@ -4,7 +4,7 @@
 * [Citing](citing.md)
 * [Databases](databases.md)
 * [Evaluating Internet Sources](internet-src.md)
-* \[Images, Media, & Oral History\]\(images.md\)
+* [Images, Media, & Oral History](images.md)
 * [Peer-reviewed](peer-review.md)
 * [Need Help?](contact.md)
 
