@@ -32,6 +32,12 @@
 
 > Collection of oral histories from Mexican American social activists.
 
+## [Remezcla](http://remezcla.com/culture/university-arizona-mexican-history/)
+
+Remezcla is considered the most influential media brand for Latino Millennials with national and international audience in the US, Latin America, and Spain.
+
+
+
 ## [Tejano Voices](http:/library.uta.edu/tejanovoices/)
 
 > The Tejano Voices Project focuses on one hundred seventy six oral history interviews that reflect the history of the Tejano community as it pressed for an end to racial segregation in the state and access to political power in the post-WWII period.
