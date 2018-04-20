@@ -34,9 +34,7 @@
 
 ## [Remezcla](http://remezcla.com/culture/university-arizona-mexican-history/)
 
-Remezcla is considered the most influential media brand for Latino Millennials with national and international audience in the US, Latin America, and Spain.
-
-
+> Remezcla is considered the most influential media brand for Latino Millennials with national and international audience in the US, Latin America, and Spain.
 
 ## [Tejano Voices](http:/library.uta.edu/tejanovoices/)
 
