@@ -1,4 +1,4 @@
-# Databases
+# Databases \(Articles\)
 
 ## Articles
 
@@ -77,8 +77,6 @@
 ## [Ventura County Museum & Library – Research Library Collections](http://venturamuseum.org/research-library/)
 
 > The Library Collection includes over 140,000 items relating to Ventura County history. The Research Library is open to the public, however, the materials do not circulate.
-
-
 
 \`\`\`
 
