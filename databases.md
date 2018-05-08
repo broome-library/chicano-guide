@@ -6,7 +6,7 @@
 
 > Academic Search Premiere is an excellent source of scholarly journals in all academic disciplines that includes over 8,000 journals.
 
-### [Aztlan: A Journal of Chicano Studies](http://summit.csuci.edu:2048/login?url=http://aztlanjournal.metapress.com/openurl.asp?genre=journal&issn=0005-2604)
+### [Aztlan: A Journal of Chicano Studies](http://www.ingentaconnect.com.summit.csuci.edu:2048/content/csrc/aztlan)
 
 > An interdisciplinary, refereed journal, _Aztlán_ focuses on scholarly essays in the humanities, social sciences, and arts, and seeks ways to bring Chicano studies into critical dialogue with Latino, ethnic, American, and global studies.
 
