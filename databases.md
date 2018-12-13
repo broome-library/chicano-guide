@@ -14,6 +14,12 @@
 
 > _Latino Studies_ is an international, interdisciplinary, peer-reviewed journal aimed at advancing Latino/a scholarship, research, and dialogue.
 
+### [Journal of Latina/o Psychology](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jfulldisplay?docid=01CALS_ALMA51437853980002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local%20Search%20Engine&tab=jsearch_slot&query=any,contains,Journal%20of%20Latina%2Fo%20Psychology&offset=0&journals=any,Journal%20of%20Latina%2Fo%20Psychology)
+
+> The Journal of Latina/o Psychology publishes scholarly writing on research, practice, advocacy, education, and policy relevant to Latino communities.
+
+
+
 ### [Ethnic NewsWatch](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=14398#sform)
 
 > Ethnic NewsWatch is aninterdisciplinary, bilingual \(English and Spanish\) and comprehensive full text database of the newspapers, magazines and journals of the ethnic, minority and native press.
