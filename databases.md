@@ -1,4 +1,4 @@
-# Databases \(Articles\)
+# Journals and Databases \(Articles\)
 
 ## Articles
 
