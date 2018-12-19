@@ -2,8 +2,6 @@
 
 ## Articles
 
-### [Academic Search Premiere](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph)
-
 ### [Aztlan: A Journal of Chicano Studies](http://www.ingentaconnect.com.summit.csuci.edu:2048/content/csrc/aztlan)
 
 > An interdisciplinary, refereed journal, _Aztlán_ focuses on scholarly essays in the humanities, social sciences, and arts, and seeks ways to bring Chicano studies into critical dialogue with Latino, ethnic, American, and global studies.
@@ -11,6 +9,10 @@
 ### [Latino Studies](http://search.proquest.com.summit.csuci.edu:2048/publication/43954)\(Journal\)
 
 > _Latino Studies_ is an international, interdisciplinary, peer-reviewed journal aimed at advancing Latino/a scholarship, research, and dialogue.
+
+### [Journal of Latinos & Education](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jfulldisplay?docid=01CALS_ALMA51437335620002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local%20Search%20Engine&tab=jsearch_slot&query=any,contains,Journal%20of%20Latinos%20&%20Education&%20Education&sortby=rank&offset=0&journals=any,Journal%20of%20Latinos%20)
+
+> ###
 
 ### [Journal of Latina/o Psychology](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jfulldisplay?docid=01CALS_ALMA51437853980002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local Search Engine&tab=jsearch_slot&query=any,contains,Journal of Latina%2Fo Psychology&offset=0&journals=any,Journal of Latina%2Fo Psychology)
 
@@ -20,7 +22,7 @@
 
 > _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ is a peer-reviewed humanities journal that provides a critical as well as creative space for Latina/o scholarship and cultural expression.
 
-### [Academic Search Premiere](http://eds.b.ebscohost.com.summit.csuci.edu/ehost/search/advanced?vid=0&sid=e70b683e-3f80-49d7-b8c4-93357a9058a6%40pdc-v-sessmgr06)
+### [Academic Search Premiere](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph)
 
 > Academic Search Premier is an excellent source of scholarly journals in all academic disciplines that includes over 8,000 journals.
 
