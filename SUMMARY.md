@@ -3,7 +3,7 @@
 * [Introduction](intro.md)
 * [Books](books.md)
 * [Citing](citing.md)
-* [Databases \(Articles\)](databases.md)
+* [Journals and Databases \(Articles\)](databases.md)
 * [Evaluating Internet Sources](internet-src.md)
 * [Archives, Oral History, Media & Images](images.md)
 * [Peer-reviewed](peer-review.md)

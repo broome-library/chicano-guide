@@ -10,9 +10,9 @@
 
 > _Latino Studies_ is an international, interdisciplinary, peer-reviewed journal aimed at advancing Latino/a scholarship, research, and dialogue.
 
-### [Journal of Latinos & Education](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jfulldisplay?docid=01CALS_ALMA51437335620002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local%20Search%20Engine&tab=jsearch_slot&query=any,contains,Journal%20of%20Latinos%20&%20Education&%20Education&sortby=rank&offset=0&journals=any,Journal%20of%20Latinos%20)
+### [Journal of Latinos and Education](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jfulldisplay?docid=01CALS_ALMA51437335620002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local Search Engine&tab=jsearch_slot&query=any,contains,Journal of Latinos & Education& Education&sortby=rank&offset=0&journals=any,Journal of Latinos )
 
-> ###
+> The Journal of Latinos and Education \(JLE\) provides a cross-, multi-, and interdisciplinary forum for scholars and writers from diverse disciplines who share a common interest in the analysis, discussion, critique, and dissemination of educational issues that impact Latinos.
 
 ### [Journal of Latina/o Psychology](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jfulldisplay?docid=01CALS_ALMA51437853980002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local Search Engine&tab=jsearch_slot&query=any,contains,Journal of Latina%2Fo Psychology&offset=0&journals=any,Journal of Latina%2Fo Psychology)
 
