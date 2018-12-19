@@ -14,11 +14,13 @@
 
 > _Latino Studies_ is an international, interdisciplinary, peer-reviewed journal aimed at advancing Latino/a scholarship, research, and dialogue.
 
-### [Journal of Latina/o Psychology](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jfulldisplay?docid=01CALS_ALMA51437853980002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local%20Search%20Engine&tab=jsearch_slot&query=any,contains,Journal%20of%20Latina%2Fo%20Psychology&offset=0&journals=any,Journal%20of%20Latina%2Fo%20Psychology)
+### [Journal of Latina/o Psychology](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jfulldisplay?docid=01CALS_ALMA51437853980002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local Search Engine&tab=jsearch_slot&query=any,contains,Journal of Latina%2Fo Psychology&offset=0&journals=any,Journal of Latina%2Fo Psychology)
 
 > The Journal of Latina/o Psychology publishes scholarly writing on research, practice, advocacy, education, and policy relevant to Latino communities.
 
+### [Chiricú Journal: Latina/o Literatures, Arts, and Cultures](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jfulldisplay?docid=01CALS_ALMA51440160570002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local%20Search%20Engine&tab=jsearch_slot&query=any,contains,Chiric%C3%BA%20Journal&sortby=rank&offset=0&journals=any,Chiric%C3%BA%20Journal)
 
+> _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ is a peer-reviewed humanities journal that provides a critical as well as creative space for Latina/o scholarship and cultural expression.
 
 ### [Ethnic NewsWatch](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=14398#sform)
 
