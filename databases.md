@@ -22,7 +22,7 @@
 
 > _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ is a peer-reviewed humanities journal that provides a critical as well as creative space for Latina/o scholarship and cultural expression.
 
-### [Academic Search Premiere](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph)
+### [Academic Search Premier](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph)
 
 > Academic Search Premier is an excellent source of scholarly journals in all academic disciplines that includes over 8,000 journals.
 
