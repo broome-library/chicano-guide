@@ -42,21 +42,25 @@
 
 > Includes poetry, fiction, and plays written in English and Spanish by hundreds of Chicano, Cuban, Puerto Rican, Dominican, and other Latino authors working in the United States. Also includes never been published materials and Chicano folk tales.
 
-### Databases in Other Disciplines
+## Databases in Other Disciplines
 
-#### [Digital Dissertations](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=G647#sform)
+### [America: History and Life](http://eds.a.ebscohost.com.summit.csuci.edu/ehost/search/advanced?vid=0&sid=d9a528e7-1109-41d4-9410-f7c7004d124e%40sessionmgr4008)
+
+> Covers the history and culture of the United States and Canada, from prehistory to the present.
+
+### [Digital Dissertations](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=G647#sform)
 
 > Access to full text dissertations and theses from over 1,000 North American and European universities from 1997 to present.
 
-#### [ERIC](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=eric)
+### [ERIC](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=eric)
 
 > ERIC is an Education database that indexes over 1,000 journals, research reports, technical reports, curriculum and teaching guides, conference papers, and dissertations.
 
-#### [SocAbs \(Sociological Abstracts\)](http://summit.csuci.edu:2048/login?url=http://www.csa.com/htbin/dbrng.cgi?username=islands&access=islands25&db=socioabs-set-c)
+### [SocAbs \(Sociological Abstracts\)](http://summit.csuci.edu:2048/login?url=http://www.csa.com/htbin/dbrng.cgi?username=islands&access=islands25&db=socioabs-set-c)
 
 > Includes full text journal articles and book reviews, and also provides abstracts of books, book chapters, dissertations, and conference papers.
 
-#### [Social Services Abstracts](http://summit.csuci.edu:2048/login?url=http://www.csa.com/htbin/dbrng.cgi?username=islands&access=islands25&db=ssa-set-c)
+### [Social Services Abstracts](http://summit.csuci.edu:2048/login?url=http://www.csa.com/htbin/dbrng.cgi?username=islands&access=islands25&db=ssa-set-c)
 
 > Provides bibliographic coverage of current research focused on social work, human services, and related areas, including social welfare, social policy, and community development.
 
