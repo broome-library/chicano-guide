@@ -7,6 +7,7 @@
 * [Evaluating Internet Sources](internet-src.md)
 * [Archives, Oral History, Media & Images](images.md)
 * [Peer-reviewed](peer-review.md)
+* [Writing in Chicana/o Studies](writing-in-chicanao-studies.md)
 * [Need Help?](contact.md)
 
 ---
