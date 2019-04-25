@@ -1,6 +1,6 @@
 # Helpful Links for Writing in Chicana/o Studies
 
-## Writing in Chicana/o Studies
+## Student Writing Guide for Chicana/o Studies
 
 [https://www.csuci.edu/writing-ci/guide/chicano-studies.htm](https://www.csuci.edu/writing-ci/guide/chicano-studies.htm)
 
