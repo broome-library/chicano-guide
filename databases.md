@@ -2,6 +2,10 @@
 
 ## Articles
 
+### [Chicano Database \(Ebsco\)](http://summit.csuci.edu/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s4819800&groupid=main&profile=ehost&defaultdb=chd)
+
+> Chicano Database is produced by the Ethnic Studies Library at U Berkeley. It indexes over 2,400 journals, newspapers, and other resources on Latinx cultures and issues. 1967-present; updated quarterly.
+
 ### [Aztlan: A Journal of Chicano Studies](http://www.ingentaconnect.com.summit.csuci.edu:2048/content/csrc/aztlan)
 
 > An interdisciplinary, refereed journal, _Aztlán_ focuses on scholarly essays in the humanities, social sciences, and arts, and seeks ways to bring Chicano studies into critical dialogue with Latino, ethnic, American, and global studies.
