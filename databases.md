@@ -10,7 +10,7 @@
 
 > An interdisciplinary, refereed journal, _Aztlán_ focuses on scholarly essays in the humanities, social sciences, and arts, and seeks ways to bring Chicano studies into critical dialogue with Latino, ethnic, American, and global studies.
 
-### [Latino Studies](http://search.proquest.com.summit.csuci.edu:2048/publication/43954)\(Journal\)
+### [Latino Studies](http://search.proquest.com.summit.csuci.edu:2048/publication/43954) \(Journal\)
 
 > _Latino Studies_ is an international, interdisciplinary, peer-reviewed journal aimed at advancing Latino/a scholarship, research, and dialogue.
 
